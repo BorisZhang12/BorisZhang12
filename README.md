@@ -5,10 +5,11 @@
 <p>
 Computer Science @ University of British Columbia<br />
 I like building the systems used by companies to keep things moving.<br />
+Outside of work or school, you can find be at the gym, playing soccer, or catching up on F1 and Hockey(may the Canucks win a cup one day)
 Feel free to reach out through my LinkedIn or email below!
 </p>
 <br />
-<h3>💼 Experience</h3>
+<h3>💼 Experience(more details on Linkedin)</h3>
 <p>
 <b>Mastercard</b> · Software Engineering Intern · Summer 2026<br />
 Model registry used by 30+ teams · multi-agent AI code review (80% less review time)
