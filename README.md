@@ -5,7 +5,7 @@
 <p>
 Computer Science @ University of British Columbia<br />
 I like building the systems used by companies to keep things moving.<br />
-Outside of work or school, you can find be at the gym, playing soccer, or catching up on F1 and Hockey(may the Canucks win a cup one day)
+Outside of work or school, you can find be at the gym, playing soccer, or catching up on F1 and Hockey(may the Canucks win a cup one day).<br />
 Feel free to reach out through my LinkedIn or email below!
 </p>
 <br />
